@@ -1,7 +1,3 @@
-# CLAUDE.md
-
-This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
-
 ## Project Overview
 
 AI Travel Agent - A LangChain/LangGraph-based agent that helps users find flights and hotels using SearchAPI.io (Google Flights & Hotels).
