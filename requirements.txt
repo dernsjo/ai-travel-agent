@@ -1,0 +1,7 @@
+pydantic
+pydantic-settings
+langchain
+langchain-openai
+langgraph
+httpx
+streamlit
